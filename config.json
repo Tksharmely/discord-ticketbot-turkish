@@ -1,0 +1,19 @@
+{
+  "clientId": "discord botunun client ID",
+
+
+  "parentOpened": "kategori id",
+  "parentApply": "kategori id",
+  "parentSupport": "kategori id",
+  "parentComplaint": "kategori id",
+  "parentPartnership": "kategori id",
+  "parentHosting": "kategori id",
+
+  "roleSupport": "support rolü",
+
+  
+  "logsTicket": "log kanalı",
+  "ticketChannel": "log kanalı",
+
+  "footerText": "made by Sayrix, being translating by Tksharmely %60"
+}
