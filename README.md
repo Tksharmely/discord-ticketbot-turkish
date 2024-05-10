@@ -1,6 +1,6 @@
 # Ticket Bot
 
-Ticket Bot is a discord ticket bot with buttons made with Discord.js v13 by Sayrix
+Ticket Bot is a discord ticket bot with buttons made with Discord.js v13
 
 ![](https://i.imgur.com/XecyLJN.gif)
 
